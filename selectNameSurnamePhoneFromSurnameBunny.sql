@@ -1,1 +1,1 @@
-SELECT name, surname, phone FROM schema_from_przemek_wieczorek.customers_employee WHERE surname = "Bunny";
+SELECT name, surname, phone FROM customers_employee WHERE surname = "Bunny";
