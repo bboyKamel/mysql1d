@@ -1,3 +1,5 @@
-SELECT * FROM cars;
+select * from customers_employee
+;
+ 
 
 
